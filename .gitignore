@@ -1,0 +1,8 @@
+# Ignore all class files
+*.class
+
+# Ignore vscode files
+.vscode
+
+# Ignore IDEA files
+.idea
